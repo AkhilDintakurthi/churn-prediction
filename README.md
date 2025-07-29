@@ -155,4 +155,4 @@ Churn Prediction/
 ## Author
 
 * **Name**: Akhil Sai Kalyan Dintakurthi
-* **Email**: [kalyan.dintakurthi@gmail.com](mailto:kalyan.dintakurthi@gmail.com)
+* **Email**: [dintakurthiakhilsai@gmail.com](mailto:dintakurthiakhilsai@gmail.com)
